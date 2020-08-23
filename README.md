@@ -1,4 +1,4 @@
-# mern-project
-First mern stack project.
-## project created using mongodb, express, react and node.
-## the tools used in this project you can find them in the package json.
+# MERN-project
+# First mern stack project.
+## Project created using mongodb, express, react and node.
+## The tools used in this project you can find them in the package json.
